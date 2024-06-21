@@ -1,0 +1,13 @@
+.reset-tw,
+.reset-tw * {
+    all: revert ;
+}
+.reset-tw img{
+    width: 100% !important;
+    height: 100% !important;
+}
+.reset-tw pre{
+    background: black !important;
+    color: white !important;
+    padding: 10px !important;
+}
