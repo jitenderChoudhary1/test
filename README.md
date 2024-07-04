@@ -1,3 +1,5 @@
+# Github Settings 
+
 1. Clear Existing Git Configuration
 First, clear any existing Git configuration related to the ex-employee.
 
